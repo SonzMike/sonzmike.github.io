@@ -4,6 +4,6 @@
 <br> 
 Confira os meus projetos
 <br>
-<a href="dojo.html" syles="text-aling:center; border-radius:10px;">Dojo</a>
+<a href="dojo.html" styles="text-aling:center; border-radius:10px;">Dojo</a>
 
 </div>
