@@ -3,7 +3,7 @@
 # sonzmike.github.io
 <br> 
 Confira os meus projetos
-
-<a href="dojo.html" syles="text-aling🥇">Dojo</a>
+<br>
+<a href="dojo.html" syles="text-aling:center; border-radius:10px;">Dojo</a>
 
 </div>
