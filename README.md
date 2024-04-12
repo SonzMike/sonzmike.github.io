@@ -5,5 +5,9 @@
 Confira os meus projetos
 <br>
 <a href="dojo.html" styles="text-aling:center; border-radius:10px;">Dojo</a>
+<br>
+<a href="git.html" styles="text-aling:center; border-radius:10px;">PlainDisplay</a>
+<br>
+
 
 </div>
