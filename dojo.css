@@ -1,28 +1,29 @@
 body{
 
-    padding: 0; 
-    margin: 0; 
-    width: 100%; 
-    margin-top: -25px; 
+    padding: 0; /*margem para ficar do tamnanho do site completo - (margem interna) */
+    margin: 0; /**/
+    width: 100%; /*comprimento*/
+    margin-top: -25px; /*margem top serve para afastar do top (se colcar um numero negativo ele vai para cima)*/ 
 
 }
 header{
-    color: white; 
-    background-color: maroon; 
-    height: 250px; 
+    color: white; /*cor da letra*/
+    background-color: maroon; /*cor de fundo*/
+    height: 250px; /*altura(estica)*/
 }
 
 .links{
-    display: flex; 
-    color: white; 
-    margin-left: 500px; 
+    display: flex; /*coloca os itens um do lado do outro*/
+    color: white; /*cor da letra*/
+    margin-left: 500px; /*margem left abre um espaço da esquerda(ele e puxado para esquerda)*/
 }
 
 .links li{
-    margin-right: 10px; 
-    list-style-type: none; 
-    text-decoration: none; 
-    margin-bottom: 20px; 
+    margin-right: 10px; /*margem right abre um espaço da direita(ele e puxado para direita)*/
+    list-style-type: none; /*tirar o sublinhado e a bolinha ° */
+    text-decoration: none; /* igual o de cima */
+    margin-bottom: 20px; /*margem bottom serve para afastar de baixo (se colcar um numero negativo ele vai para baixo)*/
+    
 }
 
 .primeiro{
@@ -49,7 +50,7 @@ footer{
 }
 
 h2{
-    font-size: 15px; 
+    font-size: 15px; /*tamanho das letras*/
 }
 
 h3{
@@ -74,9 +75,9 @@ h3{
 .card{
     margin-right: 35px;
     width: 250px;
-    text-align: center;
+    text-align: center; /*centralizar o texto*/
     display: flex;
-    flex-direction: column; 
+    flex-direction: column; /*colocar um de baixo do outro*/
 }
 
 
